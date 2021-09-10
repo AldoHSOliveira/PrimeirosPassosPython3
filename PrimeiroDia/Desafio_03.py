@@ -1,4 +1,4 @@
-#Criar um programa que leia dois numeros e mostre a soma entre eles
+#Criar um programa que leia dois números e mostre a soma entre eles
 
 num1 = int(input("Primeiro número: "))
 num2 = int(input("Segundo número: "))
